@@ -1,0 +1,22 @@
+{
+  "wheel_id": 660,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-152",
+  "project": "kitchen-renovations-brisbane-seasonal-timing-dc6d2541d9f72c4b0f",
+  "parent_t1_ref": "kitchenrenobrisbane-012",
+  "node_role": "buffer",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen renovations brisbane seasonal timing",
+  "intended_url": "https://sitesau.github.io/kitchenrenobrisbane-152/",
+  "tier": "T2",
+  "writeback_nonce": "dd02628535e1dfbd",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovations-brisbane-kitchenrenobrisbane-012-371558.gitlab.io/",
+      "anchor": "this kitchen renovations brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
